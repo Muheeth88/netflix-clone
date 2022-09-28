@@ -1,6 +1,6 @@
 .row{
     color: white;
-    margin: 10px 20px
+    margin: 10px 20px;
 }
 .row_posters{
     padding: 20px;
@@ -26,4 +26,10 @@
 }
 .row_largePoster:hover{
     transform: scale(1.09);
+}
+
+.row_trailer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
